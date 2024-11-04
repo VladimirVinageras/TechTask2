@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vinakheras/Desktop/TechTask2/TechTask2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImage1</string>
+			<key>relativePath</key>
+			<string>./Image1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>image1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vinakheras/Desktop/TechTask2/TechTask2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImage2</string>
+			<key>relativePath</key>
+			<string>./Image2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>image2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vinakheras/Desktop/TechTask2/TechTask2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImage3</string>
+			<key>relativePath</key>
+			<string>./Image3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>image3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vinakheras/Desktop/TechTask2/TechTask2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImage4</string>
+			<key>relativePath</key>
+			<string>./Image4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>image4</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

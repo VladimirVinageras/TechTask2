@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/TechTask2-master.dia",
+    "emit-module-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/TechTask2-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/TechTask2-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/TechTask2-master.swiftdeps"
+  },
+  "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Desktop/TechTask2/TechTask2/AppDelegate.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Desktop/TechTask2/TechTask2/Assets&Constants/Assets.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.dia",
+    "index-unit-output-path" : "/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/Assets-8a751c8271dc670edeb38f99862b4909~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Desktop/TechTask2/TechTask2/BannerTechTaskViewController.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.dia",
+    "index-unit-output-path" : "/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/BannerTechTaskViewController~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Desktop/TechTask2/TechTask2/SceneDelegate.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Desktop/TechTask2/TechTask2/UIColorExtension/UIColorExtension.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.dia",
+    "index-unit-output-path" : "/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask2/Build/Intermediates.noindex/TechTask2.build/Debug-iphonesimulator/TechTask2.build/Objects-normal/arm64/UIColorExtension~partial.swiftmodule"
+  }
+}
