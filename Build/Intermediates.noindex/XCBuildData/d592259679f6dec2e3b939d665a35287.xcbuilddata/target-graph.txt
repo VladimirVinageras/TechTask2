@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'TechTask2' in project 'TechTask2' (no dependencies)
